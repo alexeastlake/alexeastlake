@@ -1,0 +1,3 @@
+- :grin: Hey, I’m Alex Eastlake (@alexeastlake on GitHub)
+- :computer: I’m currently studying Computer Science at Victoria University of Wellington
+- :mag: LinkedIn: https://www.linkedin.com/in/alex-eastlake-a86b24207
